@@ -157,7 +157,7 @@ async function sendNotifications(notifications){
         "contents": {"en": `You've successfully received a deposit`},
         "headings": {"en": `You've received ${notification.amount} ${notification.tokenName}`},
         "name": "Notification",
-        "app_id": "c901ca81-3675-4097-aae4-ff7ee5d89ed6"
+        "app_id": "INSERT_APP_ID"
       }
       
     };
