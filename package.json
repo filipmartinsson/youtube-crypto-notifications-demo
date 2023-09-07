@@ -1,0 +1,25 @@
+{
+  "name": "pepe_whale_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.19.0",
+    "@onesignal/node-onesignal": "^2.0.1-beta2",
+    "abi-decoder": "^2.4.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "moralis": "^2.19.0",
+    "web3": "^1.10.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.9"
+  }
+}
